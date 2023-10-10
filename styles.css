@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(219, 207, 192);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#container1 {
+    text-align: center;
+    border: 5px solid #000;
+    border-radius: 10px;
+    padding: 20px; /* Add padding for better spacing */
+}
+
+h1 {
+    color: #333; 
+}
+
+input {
+    margin-bottom: 10px; /* Add some space below the input */
+}
+
+button {
+    background-color: #008CBA; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 10px 20px; /* Add padding to the button */
+    border: none;
+    cursor: pointer;
+}
